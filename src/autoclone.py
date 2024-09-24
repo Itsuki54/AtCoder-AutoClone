@@ -40,7 +40,8 @@ EXTENSIONS = {
     "Perl6": "p6",
     "Kotlin": "kt",
     "COBOL": "cob",
-    "C": ".c",
+    "C": ".c",,
+    "Dart":"dart",
 }
 
 
